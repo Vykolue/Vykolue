@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Vykolue, and this is my website!
-### For right now, it's just a place for me to experiment with a new tuning system I'm developing, but I have much more planned for the future!
+### As of right now, it's just a place I can experiment with a fun tuning system, but I have much more planned for the future!
 
 <!--
 **Vykolue/Vykolue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
